@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RatelimiterserviceApplication {
+public class RateLimiterServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RatelimiterserviceApplication.class, args);
+        SpringApplication.run(RateLimiterServiceApplication.class, args);
     }
 
 }
